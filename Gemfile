@@ -41,3 +41,5 @@ gem 'jquery-rails'
 gem 'omniauth-twitter'
 # other providers... 
 #https://github.com/snikulin/omniauth-jira
+
+gem 'thin'
